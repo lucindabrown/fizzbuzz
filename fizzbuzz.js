@@ -7,7 +7,7 @@ var fizzAnswer = function (){
 		resultString += i + "\n";
 	}
 		else if(i%3==0){
-		resultString += "fizz ";
+		resultString += "fizz";
 		if(i%5==0){
 		resultString += "buzz";
 		}
